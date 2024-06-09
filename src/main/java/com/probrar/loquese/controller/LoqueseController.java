@@ -25,6 +25,6 @@ public class LoqueseController {
     public String crearLoq(@RequestBody Loquese loq) {
         IloqSer.crearLoquese(loq);
         return "se creo correctamente";
-    } 
+    }
     
 }

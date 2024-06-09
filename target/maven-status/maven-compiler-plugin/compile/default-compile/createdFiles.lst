@@ -1,1 +1,6 @@
+com\probrar\loquese\controller\LoqueseController.class
+com\probrar\loquese\model\Loquese.class
+com\probrar\loquese\repository\ILoqueseRepository.class
 com\probrar\loquese\LoqueseApplication.class
+com\probrar\loquese\service\ILoqueseService.class
+com\probrar\loquese\service\LoqueseService.class
