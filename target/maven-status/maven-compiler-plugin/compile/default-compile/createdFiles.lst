@@ -2,6 +2,7 @@ com\probrar\loquese\config\TransactionManagementConfig.class
 com\probrar\loquese\controller\LoqueseController.class
 com\probrar\loquese\model\Loquese.class
 com\probrar\loquese\repository\ILoqueseRepository.class
+.netbeans_automatic_build
 com\probrar\loquese\LoqueseApplication.class
 com\probrar\loquese\service\ILoqueseService.class
 com\probrar\loquese\service\LoqueseService.class
