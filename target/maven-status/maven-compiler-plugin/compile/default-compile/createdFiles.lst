@@ -1,3 +1,4 @@
+com\probrar\loquese\config\TransactionManagementConfig.class
 com\probrar\loquese\controller\LoqueseController.class
 com\probrar\loquese\model\Loquese.class
 com\probrar\loquese\repository\ILoqueseRepository.class
